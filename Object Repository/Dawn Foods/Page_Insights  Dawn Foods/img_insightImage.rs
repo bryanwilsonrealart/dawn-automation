@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_insightImage</name>
+   <tag></tag>
+   <elementGuidId>ebdb691d-8350-4be5-9321-05848a1afb04</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>insightImage</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://stage.dawnfoods.com/images/default-source/usa-insights/5-steps-to-tenuring-bakery-talent-thumb.jpg?sfvrsn=913d39c_2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Content_T7110AE3F013_Col00&quot;)/div[@class=&quot;insightsLanding&quot;]/div[@class=&quot;relativeWrapper&quot;]/div[@class=&quot;insightsWrapper&quot;]/div[@class=&quot;insights&quot;]/div[@class=&quot;insight&quot;]/a[@class=&quot;insightLink&quot;]/img[@class=&quot;insightImage&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
